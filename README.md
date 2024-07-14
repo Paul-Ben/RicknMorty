@@ -30,12 +30,14 @@ Install project by running
   run php artisan migrate
   run phpa artisan serve 
 
-  in browser type http://127.0.0.1/
+  in browser type http://127.0.0.1:8000/
   
   have fun. if you can contribute i'll be delighted
   
 ```
-    
+![Screenshot from 2023-05-01 19-26-45](https://github.com/user-attachments/assets/6d606888-2a1a-4d2b-acd2-52bdd1aec0ed)
+![Screenshot from 2023-05-01 19-41-36](https://github.com/user-attachments/assets/6c0ce3d8-cc2c-42e4-a11e-aa2a15907966)
+
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
